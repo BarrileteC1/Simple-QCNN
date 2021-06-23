@@ -1,1 +1,1 @@
-# QCNN-layer
+# QCNN
